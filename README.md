@@ -3,8 +3,22 @@
 <p align="center">
   <h3 align="center">End-to-end Attack Detection and Mitigation Framework</h3>
 <p align="center">
-
-
+  
+  <details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+      <li><a href="#about-the-project">About The Project</a></li>
+      <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#examples">Examples</a></li>
+    <li><a href="#license">License</a></li>
+   </ol> 
+</details>
 
 
 
@@ -26,12 +40,12 @@ We apply game theory, control theory and advances of machine learning to improve
    ```
 
 <!-- USAGE EXAMPLES -->
-## Usage:
+## Usage
    
   ```sh
   python NumericalExample.py <options>
   ```
-## Examples:   
+## Examples
   ```
   (1) python NumericalExample.py
       - returns the Player' payoffs, prob. of initiating an attack 
