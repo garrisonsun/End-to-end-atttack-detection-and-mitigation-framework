@@ -140,8 +140,9 @@ def readCommand( argv ):
     parser.add_argument("-p", "--parameters", help="enter utility values and detector properties", action="store_true", default=False)
       
     args = parser.parse_args(argv)
+
     global alpha_d, alpha_f, alpha_m, beta_s, beta_t, P_na_nr, P_na_r, P_a_nr, P_a_r
-    if args.print_string:
+    if args.parameters:
         alpha_d = int(input('Enter alpha_d: '))
         alpha_f = int(input('Enter alpha_f: '))
         alpha_m = int(input('Enter alpha_m: '))
