@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">End-to-end Attack Detection and Mitigation Framework</h3>
+  <h1 align="center">End-to-end Attack Detection and Mitigation Framework</h1>
 <p align="center">
   
   <details open="open">
