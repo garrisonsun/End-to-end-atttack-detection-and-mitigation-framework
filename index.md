@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h3 align="center">End-to-end Attack Detection and Mitigation Framework</h3>
+<p align="center">
 
-You can use the [editor on GitHub](https://github.com/garrisonsun/End-to-end-atttack-detection-and-mitigation-framework/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<!-- ABOUT THE PROJECT -->
+## About The Project
+We apply game theory, control theory and advances of machine learning to improve the robustness of vehicle platoons with an end-to-end attack detection and mitigation framework. In this project, we demenstrate the core algorithms.  
 
-# Header 1
-## Header 2
-### Header 3
+<!-- GETTING STARTED -->
+## Getting Started
 
-- Bulleted
-- List
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/garrisonsun/End-to-end-atttack-detection-and-mitigation-framework.git
+   ```
+2. Install Python packages
+   ```sh
+   pip install -r requirements.txt
+   ```
 
-1. Numbered
-2. List
+<!-- USAGE EXAMPLES -->
+## Usage:
+   
+  ```sh
+  python NumericalExample.py <options>
+  ```
+## Examples:   
+  ```
+  (1) python NumericalExample.py
+      - returns the Player' payoffs, prob. of initiating an attack 
+        and prob. of defloying acc for defending 
+  (2) python NumericalExample.py -p
+      - starts to type in utility values and detector properties
+    
+       [-h] [-p]
 
-**Bold** and _Italic_ and `Code` text
+  optional arguments:
+    -h, --help        show this help message and exit
+    -p, --parameters  Inputs utility values and detector properties.
+  ```  
+<!-- LICENSE -->
+## License
 
-[Link](url) and ![Image](src)
-```
+Distributed under the MIT License. See `LICENSE` for more information.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garrisonsun/End-to-end-atttack-detection-and-mitigation-framework/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
