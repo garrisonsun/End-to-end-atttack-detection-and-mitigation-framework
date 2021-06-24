@@ -39,7 +39,8 @@ We apply game theory, control theory and advances of machine learning to improve
    ```sh
    pip install -r requirements.txt
    ```
-
+3. Install Gambit Python extention (Link: https://gambitproject.readthedocs.io/en/latest/build.html)
+  
 <!-- USAGE EXAMPLES -->
 ## Usage
    
