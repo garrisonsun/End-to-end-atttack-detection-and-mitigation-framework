@@ -17,6 +17,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#examples">Examples</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#simulation">Simulation</a></li>
    </ol> 
 </details>
 
@@ -59,6 +60,11 @@ We apply game theory, control theory and advances of machine learning to improve
     -h, --help        show this help message and exit
     -p, --parameters  Inputs utility values and detector properties.
   ```  
+  
+## Simulation
+
+https://user-images.githubusercontent.com/50089203/123204755-112de680-d4fc-11eb-985c-2a0df8add4ee.mp4
+
 <!-- LICENSE -->
 ## License
 
