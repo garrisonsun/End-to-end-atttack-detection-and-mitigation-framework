@@ -27,7 +27,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-We apply game theory, control theory and advances of machine learning to improve the robustness of vehicle platoons with an end-to-end attack detection and mitigation framework. In this project, we demenstrate the core algorithms.  
+We utilize recent advances in machine learning, game theory and control theory to improve the robustness of vehicle platoons with an end-to-end attack detection and mitigation framework.
 
 <!-- GETTING STARTED -->
 ## Getting Started
