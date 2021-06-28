@@ -7,7 +7,7 @@ We apply advances of game theory, control theory and machine learning to improve
 
 ## Authors
 ### Guoxin Sun
-<img src="Sefi_modified_crop.jpg" alt="Guoxin Sun's profile picture" width="85" height="85" align="left" style="padding-right: 10px">Mr. [Guoxin Sun](https://electrical.eng.unimelb.edu.au/people/research-students) received the B.S. degree in 2017 and the M.E. degree in 2019 from the University of Melbourne. He is currently pursing the Ph.D. degree with the Elctrical and Electronic Engineering Department, the University of Melbourne. His research interests lie in the domain of machine learning, cyber security, system theory and game theory.
+<img src="Sefi_modified_crop.jpg" alt="Guoxin Sun's profile picture" width="85" height="85" align="left" style="padding: 5px">Mr. [Guoxin Sun](https://electrical.eng.unimelb.edu.au/people/research-students) received the B.S. degree in 2017 and the M.E. degree in 2019 from the University of Melbourne. He is currently pursing the Ph.D. degree with the Elctrical and Electronic Engineering Department, the University of Melbourne. His research interests lie in the domain of machine learning, cyber security, system theory and game theory.
 
 ### Tansu Alpcan
 <img src="tansu.jpg" alt="Tansu Alpcan's profile picture" width="85" height="85" align="left">Prof. [Tansu Alpcan](https://findanexpert.unimelb.edu.au/profile/425318-tansu-alpcan)'s research interests include game, control, and optimisation theories; adversarial and distributed machine learning; networked and distributed system security; applications of machine and deep learning methods to communication, IoT, and Cyber-Physical Systems; smart grid, renewable integration, and electricity markets; wireless, cognitive and software-defined networks.
