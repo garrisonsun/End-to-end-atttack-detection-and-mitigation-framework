@@ -1,5 +1,5 @@
 
-We apply advances of game theory, control theory and machine learning to improve the robustness of vehicle platoons with an end-to-end attack detection and mitigation framework.
+We utilize recent advances in machine learning, game theory and control theory to improve the robustness of vehicle platoons with an end-to-end attack detection and mitigation framework.
 
 ## Video Demo
 
