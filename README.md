@@ -16,8 +16,10 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#examples">Examples</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#simulation">Simulation</a></li>
+    <li><a href="#authors">Authors</a></li>
+    <li><a href="#cite-this-work">Cite this work</a></li>
+    <li><a href="#license">License</a></li>
    </ol> 
 </details>
 
@@ -66,6 +68,26 @@ We apply game theory, control theory and advances of machine learning to improve
 
 https://user-images.githubusercontent.com/50089203/123204755-112de680-d4fc-11eb-985c-2a0df8add4ee.mp4
 
+## Authors
+- [Guoxin Sun](https://electrical.eng.unimelb.edu.au/people/research-students)
+
+- [Tansu Alpcan](https://findanexpert.unimelb.edu.au/profile/425318-tansu-alpcan)
+
+- [Ben Rubinstein](https://findanexpert.unimelb.edu.au/profile/20074-ben-rubinstein)
+  
+- [Seyit Camtepe](https://people.csiro.au/C/S/Seyit-Camtepe)
+
+## Cite this work
+If you find this work useful, please consider to cite the following reference [paper](https://garrisonsun.github.io/End-to-end-atttack-detection-and-mitigation-framework/):
+```
+@inproceedings{guoxin2021strategic,
+  title={Strategic mitigation against wireless attacks onautonomous platoons.},
+  author={Sun, Guoxin and Alpcan, Tansu and Rubinstein, Benjamin and Camtepe, Seyit},
+  booktitle={ECML/PKDD},
+  pages={--},
+  year={2021}
+}
+```
 <!-- LICENSE -->
 ## License
 
