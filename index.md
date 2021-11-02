@@ -21,12 +21,13 @@ We utilize recent advances in machine learning, game theory and control theory t
 ## Cite this work
 If you find this work useful, please consider to cite the following reference [paper](https://garrisonsun.github.io/End-to-end-atttack-detection-and-mitigation-framework/):
 ```
-@inproceedings{guoxin2021strategic,
-  title={Strategic mitigation against wireless attacks onautonomous platoons.},
-  author={Sun, Guoxin and Alpcan, Tansu and Rubinstein, Benjamin and Camtepe, Seyit},
-  booktitle={ECML/PKDD},
-  pages={--},
-  year={2021}
+@inproceedings{sun2021strategic,
+  title={Strategic Mitigation Against Wireless Attacks on Autonomous Platoons},
+  author={Sun, Guoxin and Alpcan, Tansu and Rubinstein, Benjamin IP and Camtepe, Seyit},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={69--84},
+  year={2021},
+  organization={Springer}
 }
 ```
 
