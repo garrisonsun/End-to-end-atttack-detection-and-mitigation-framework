@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/50089203/123204755-112de680-d4fc-11eb-
 - [Seyit Camtepe](https://people.csiro.au/C/S/Seyit-Camtepe)
 
 ## Cite this work
-If you find this work useful, please consider to cite the following reference [paper](https://garrisonsun.github.io/End-to-end-atttack-detection-and-mitigation-framework/):
+If you find this work useful, please consider to cite the following reference [paper](https://link.springer.com/chapter/10.1007/978-3-030-86514-6_5):
 ```
 @inproceedings{sun2021strategic,
   title={Strategic Mitigation Against Wireless Attacks on Autonomous Platoons},
